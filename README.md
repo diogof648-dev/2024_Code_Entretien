@@ -2,9 +2,9 @@
 
 ## Consignes
 
-Vous êtes libre de choisir le langage de programmation. Le rendu devra être fait sur un repot github ou gitlab en public afin que nous puissons consulter votre travail.
+Vous êtes libre de choisir le langage de programmation de votre choix. Le rendu devra être fait sur un repot github ou gitlab en public afin que nous puissons consulter votre travail.
 
-Vous devrez nous envoyé un couriel au maximum deux jours avant l'entretien en mettant les ensignants en copie. 
+Vous devrez nous envoyer un couriel au maximum **deux jours** avant l'entretien en mettant les ensignants en copie. 
 
 
 ## Fonctionnlités
