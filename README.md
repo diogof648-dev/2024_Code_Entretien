@@ -96,7 +96,7 @@ SetOpeningHours("Sun", "09:00", "13:00")
 Ainsi que les dates suivantes:
 
 ```txt
-monday = '2024-02-25T10:20:00.000'
+monday = '2024-02-26T10:20:00.000'
 wednesday = '2024-02-21T07:45:00.000'
 saturday = '2024-02-24T19:50:00.000'
 sunday = '2024-02-25T09:15:00.000'
@@ -107,6 +107,6 @@ Alors les assertions suivantes doivent être vérifiées:
 ```txt
 IsOpenOn(monday) == false
 IsOpenOn(wednesday) == true
-IsOpenOn(thursday) == true
+IsOpenOn(saturday) == true
 IsOpenOn(sunday) == true
 ```
