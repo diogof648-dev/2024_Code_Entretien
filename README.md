@@ -1,5 +1,11 @@
 # Horaire d'ouverture d'un magasin
 
+## Attention !
+
+Pour que ce code fonctionne, il est requis d'utiliser un serveur web et non d'ouvrir le fichier index.html ou test.html directement. Sur VSCode, une bonne extension pour cela : [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) ou encore [PHP Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver) (celui que j'ai utilisé).
+
+Ceci vient du fait que j'ouvre un fichier local et que, en JS, quand un fichier est ouvert, c'est comme si une requête était effectué à un serveur pour récupérer les informations. Sans un serveur web, une erreur s'affichera lors de l'ouverture car l'origine de la requête étant nulle, les CORS policies bloquent.
+
 ## Consignes
 
 Vous êtes libre de choisir le langage de programmation de votre choix. Le rendu devra être fait sur un dépôt Github ou Gitlab en public afin que nous puissions consulter votre travail.
